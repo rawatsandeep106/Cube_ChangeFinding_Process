@@ -1,0 +1,528 @@
+
+    
+        
+            
+                Skip to main content
+            
+            
+                Skip to "About this site"
+            
+        
+    
+    
+        
+            
+                Language selection
+                
+                    
+                        
+                            Français
+                        
+                    
+                
+            
+
+            
+                
+                    
+                        
+                        
+                         Office of the Privacy Commissioner of Canada
+                    
+                
+
+                
+                    Search and menus
+                    
+                        
+                            
+                                
+                                    
+                                        Search and menus
+                                    
+                                
+                            
+                        
+                    
+                    
+                
+
+                
+                    Search
+
+                        
+                            Search website
+                            
+                            
+                                
+                                
+                            
+                        
+                        
+                            Search
+                        
+                
+            
+        
+        
+            
+                Topics menu
+                
+                    
+                        For individuals
+                        For businesses
+                        For federal institutions
+                        Report a concern
+                        OPC actions and decisions
+                        About the OPC
+                    
+                
+            
+        
+
+        
+            You are here:
+            
+                
+                    
+                        
+                        HomePrivacy topicsBusiness privacySafeguards and breachesPrivacy breachesRespond to a privacy breach at your business
+                    
+                
+            
+        
+    
+
+    
+        
+
+            What you need to know about mandatory reporting of breaches of security safeguards
+                            
+                        
+                            
+                                
+                                
+                                
+
+October 2018
+Organizations subject to the Personal Information Protection and Electronic Documents Act (PIPEDA) are required to:
+
+report to the Privacy Commissioner of Canada breaches of security safeguards involving personal information that pose a real risk of significant harm to individuals
+notify affected individuals about those breaches, and
+keep records of all breaches.
+
+This guidance will provide an overview of what you need to know about these obligations.
+On this page
+
+Overview
+Part 1 – Your obligations for reporting breaches
+Part 2 – Submitting a breach report to the OPC
+Part 3 – You need to keep records of all breaches
+Part 4 – When and how to notify individuals
+Part 5 – Notification to Organizations
+Part 6 – Assessing real risk of significant harm
+PIPEDA breach report form
+
+Overview
+What will I learn from this guidance?
+You will learn how to determine what breaches of security safeguards (also referred to in this document as breaches) have to be reported to the Office of the Privacy Commissioner of Canada (OPC), and what kind of notice you need to give individuals.
+You will also learn about your obligation to keep records of breaches and what information needs to be included.
+If you want to read the legal provisions relating to breaches of security safeguards, you can read them in PIPEDA and in the Breach of Security Safeguard Regulations.
+What is a breach of security safeguards?
+A breach of security safeguards is defined in PIPEDA as: the loss of, unauthorized access to or unauthorized disclosure of personal information resulting from a breach of an organization’s security safeguards that are referred to in clause 4.7 of Schedule 1 of PIPEDA, or from a failure to establish those safeguards.
+Does this apply to small businesses?
+Yes. Large and small business will be subject to PIPEDA requirements to report and notify breaches of security safeguards that pose a real risk of significant harm, and to keep records of all breaches of security safeguards.
+Are there financial penalties?
+Yes. Under PIPEDA it is an offence to knowingly contravene PIPEDA’s reporting, notification and record-keeping requirements relating to breaches of security safeguards, and doing so could lead to fines.
+The OPC does not prosecute offences under PIPEDA or issue fines. What the OPC can do is refer information relating to the possible commission of an offence to the Attorney General of Canada, who would be responsible for any ultimate prosecution.
+For additional information you can read what the law says.
+Are there other materials I can read?
+Yes. The OPC has other materials that you can read and use for training. These are:
+
+Tips for containing and reducing the risks of a privacy breach
+Securing personal information: A self-assessment tool for organizations
+
+Once you have read those, we would encourage you to learn about accountability with our Getting Accountability Right with a Privacy Management Program document, developed in conjunction with the Information and Privacy Commissioners of Alberta and British Columbia.
+Part 1 – Your obligations for reporting breaches
+Do I need to report all breaches to the OPC?
+No. The law requires that you report any breach of security safeguards involving personal information under your control if it is reasonable in the circumstances to believe that the breach of security safeguards creates a real risk of significant harm (RROSH) to an individual.
+Whether a breach of security safeguards affects one person or a 1,000, it will still need to be reported if your assessment indicates there is a real risk of significant harm resulting from the breach.
+Who is responsible for reporting the breach?
+The Act requires an organization to report a breach involving personal information under its control. Therefore, the obligation to report the breach rests with an organization in control of the personal information implicated in the breach.
+The term control is not defined in the Act and is used in a number of provisions and contexts, which can lead to some ambiguity as to its meaning.
+Questions about the issue of control may arise in particular where an organization (the “principal organization”)  has transferred personal information to a third party for processing and a breach occurs while the personal information is with the processor.
+In this regard, we note that PIPEDA’s accountability principle provides that an organization remains responsible for the personal information it has transferred to a third party for processing. In addition, we have heard from many stakeholders that requiring both the principal organization and the processor to report the breach would be largely inconsistent with existing business practices and raise various operational concerns.
+Therefore in this context, we find it reasonable to interpret the principal organization as having control of the personal information and therefore responsibility for breach reporting in respect of a breach that occurs with the third party processor.
+In so doing, the principal organization will need to ensure there are sufficient contractual arrangements in place with the processor to address compliance with the breach provisions set out in PIPEDA. The same would be true for notification and record-keeping obligations.
+That said, business relationships can be very complex and determining who has personal information “under its control” needs to be assessed on a case-by-case basis. This assessment can be informed by relevant contractual arrangements and commercial realities between organizations. Evolving business models and shifting roles may also impact the assessment. For instance, if an organization that is a processor uses or discloses the same personal information for other purposes, it is no longer simply processing the personal information on behalf of another organization and is thereby acting as an organization “in control” of the information.
+In addition, an organization that processes personal information on behalf of another organization still has obligations under the Act in respect of the personal information in its possession or custody, as an organization that collects, uses or discloses personal information in the course of commercial activities.Footnote 1
+What is real risk of significant harm (RROSH)?
+Significant harm includes bodily harm, humiliation, damage to reputation or relationships, loss of employment, business or professional opportunities, financial loss, identity theft, negative effects on the credit record and damage to or loss of property.
+Factors that are relevant to determining whether a breach of security safeguards creates a real risk of significant harm include the sensitivity of the personal information involved in the breach of security safeguards and the probability the personal information has been/is/will be misused.
+You can find detailed information to find out how to assess if a breach of security safeguards poses a real risk of significant harm and needs to be reported.
+Do you have a form I can use to report one of these breaches?
+Yes. See the PIPEDA breach report form.
+Can I add new information to a report already sent?
+Yes. If you become aware of any new information, you may report that information.
+Part 2 – Submitting a breach report to the OPC
+What do I need to include in a report to the OPC?
+We have specific guidance on what to include in a report and how to file reports.
+Part 3 – You need to keep records of all breaches
+Who has to keep records?
+The law requires that an organization has to keep and maintain a record of every breach of security safeguards involving personal information under its control. Therefore, the obligation to keep such a record rests with an organization in control of the personal information implicated in the breach.
+For a discussion on control, please see Part 1 of this guidance.
+What records do I have to keep?
+PIPEDA requires you to keep records of all breaches of security safeguards of personal information under your control – whether there is a real risk of significant harm or not.
+To put it simply – there must be a record of every breach of security safeguards.
+What should a record contain?
+Records must contain any information that enables the OPC to verify compliance with breach of security safeguards reporting and notification requirements in sections 10.1(1) and (3) of PIPEDA, including requirements to assess real risk of significant harm.
+As a starting point, we would expect at minimum a record to include:
+
+date or estimated date of the breach;
+general description of the circumstances of the breach;
+nature of information involved in the breach; and
+whether or not the breach was reported to the Privacy Commissioner of Canada/individuals were notified.
+
+The record should also contain sufficient details for the OPC to assess whether an organization has correctly applied the real risk of significant harm standard and otherwise met its obligations to report and notify in respect of breaches that pose a real risk of significant harm. This could include a brief explanation of why the organization determined there was not a real risk of significant harm in cases where the organization did not report the breach to the Privacy Commissioner and notify individuals.
+Do records have to include personal information about people?
+Records should describe the nature or type of information involved in the breach of security safeguards, but need not include personal details unless necessary to explain the nature and sensitivity of the information.
+How long do I have to keep records?
+The law requires you to keep breach records of all breaches of security safeguards for two years.
+You may have other legal requirements that may require you to keep them for longer.
+Part 4 – When and how to notify individuals
+Who has to notify individuals?
+An organization shall notify an individual of any breach of security safeguards involving the individual’s personal information under the organization’s control if it is reasonable in the circumstances to believe that the breach creates a real risk of significant harm to the individual. Therefore, the obligation to notify individuals of a breach rests with an organization in control of the personal information implicated in the breach.
+For a discussion on control, please see Part 1 of this guidance.
+
+
+
+When do I notify individuals?
+Unless otherwise prohibited by law, anytime you determine that a breach of security safeguards poses a real risk of significant harm to an individual, you must notify the individual(s) concerned. The notification must be conspicuous and must be given directly to the individual, except in certain circumstances described in the regulations where indirect notification is permitted.
+The law requires that notification to individuals be given as soon as feasible after you have determined that a breach of security safeguards involving a real risk of significant harm has occurred.
+What do I have to include in notifications to individuals?
+The notification must include enough information to allow the individual to understand the significance of the breach of security safeguards to them and to take steps, if any are possible, to reduce the risk of harm that could result from the breach or mitigate the harm.
+As well, it should not be overly legalistic and should be easily understandable.
+The notification must include the following information specified in the regulations:
+
+a description of the circumstances of the breach;
+the day on which, or period during which, the breach occurred or, if neither is known, the approximate period;
+a description of the personal information that is the subject of the breach to the extent that the information is known;
+a description of the steps that the organization has taken to reduce the risk of harm that could result from the breach;
+a description of the steps that affected individuals could take to reduce the risk of harm that could result from the breach or to mitigate that harm; and
+contact information that the affected individual can use to obtain further information about the breach.
+
+What is direct notification?
+Direct notification is when you notify an individual in person, by telephone, mail, email or any other form of communication that a reasonable person would consider appropriate in the circumstances.
+When can I indirectly notify individuals?
+There are limited times when you can indirectly notify people. These are when:
+
+direct notification would be likely to cause further harm to the affected individual;
+direct notification would be likely to cause undue hardship for the organization; or
+the organization does not have contact information for the affected individual.
+
+What are examples of indirect notification?
+Indirect notification must be given by public communication or similar measure that could reasonably be expected to reach the affected individuals.
+This can include public announcements, such as advertisements in online or offline newspapers.
+You should use a method that is likely to reach affected individuals. For example, a mention in a corporate blog may not have the reach of a prominent and dedicated public announcement campaign.
+For indirect notifications, you should consider measures used for other public announcements. For example, consider how to incorporate media messaging, including a prominent notice made on your website or other online/digital presence.
+Part 5 – Notification to Organizations
+What does this mean?
+An organization that notifies an individual of a breach of security safeguards involving a real risk of significant harm must also notify any government institutions or organizations that the organization believes can reduce the risk of harm that could result from the breach or mitigate the harm.
+What are some examples?
+While each example depends on the specific circumstances, it could include:
+
+Notifying law enforcement when there is an attack on your computer system where bad actors have accessed your customers’ information, if you believe law enforcement may be able to reduce the risk of harm that could result from the breach or mitigate the harm.
+Notifying an organization that processes your payments, in the case of a breach affecting individuals’ payment card information, if you believe the organization may be able to reduce the risk of harm that could result from the breach or mitigate the harm.
+
+Part 6 – Assessing real risk of significant harm
+As an accountable organization, you should develop a framework for assessing the real risk of significant harm. This will ensure that all breaches are assessed consistently.
+The factors that are relevant to determining whether a breach of security safeguards creates a real risk of significant harm to the individual include:
+
+the sensitivity of the personal information involved in the breach; and
+the probability that the personal information has been, is being, or will be, misused.
+
+As a part of your assessment, you should consider the following:
+
+Sensitivity:
+
+PIPEDA does not define sensitivity. However, the concept of sensitivity of personal information is discussed in Principle 4.3.4 of PIPEDA which states:
+Although some information (for example, medical records and income records) is almost always considered to be sensitive, any information can be sensitive, depending on the context. For example, the names and addresses of subscribers to a newsmagazine would generally not be considered sensitive information. However, the names and addresses of subscribers to some special-interest magazines might be considered sensitive.
+
+Following a breach, to determine sensitivity, it is therefore important to examine both what personal information has been breached and the circumstances.
+Certain information may on its face be clearly sensitive. Other information may not be.
+The circumstances of the breach may make the information more or less sensitive. The potential harms that could accrue to an individual are also an important factor.
+
+
+Probability of Misuse:Some questions you may wish to consider are:
+
+What happened and how likely is it that someone would be harmed by the breach?
+Who actually accessed or could have accessed the personal information?
+How long has the personal information been exposed?
+Is there evidence of malicious intent (e.g., theft, hacking)?
+Were a number of pieces of personal information breached, thus raising the risk of misuse?
+Is the breached information in the hands of an individual/entity that represents a reputation risk to the individual(s) in and of itself? (e.g. an ex-spouse or a boss depending on specific circumstances)
+Was the information exposed to limited/known entities who have committed to destroy and not disclose the data?
+Was the information exposed to individuals/entities who have a low likelihood of sharing the information in a way that would cause harm? (e.g. in the case of an accidental disclosure to unintended recipients)
+Was the information exposed to individuals/entities who are unknown or to a large number of individuals, where certain individuals might use or share the information in a way that would cause harm?
+Is the information known to be exposed to entities/individuals who are likely to attempt to cause harm with it (e.g. information thieves)?
+Has harm materialized (demonstration of misuse)?
+Was the information lost, inappropriately accessed or stolen?
+Has the personal information been recovered?
+Is the personal information adequately encrypted, anonymized or otherwise not easily accessible?
+
+
+
+
+
+Footnote 1
+
+Please see Sections 4(1)(a) and 5(1) of PIPEDA.
+Return to footnote 1
+
+
+
+
+
+                            
+                        
+                        
+                    
+
+
+        
+
+        
+                
+                    
+                        
+                            Report a problem or mistake on this page
+                            
+                                
+                                    
+                                        
+                                            
+                                                Error&nbsp;1:&nbsp;No selection was made. You must choose at least 1 answer.
+                                            
+                                        
+
+                                            
+                                                Please select all that apply (required):
+                                                
+                                                    
+                                                         There are broken links.
+                                                    
+                                                
+
+                                                
+                                                    
+                                                         The page has spelling or grammar mistakes.
+                                                    
+                                                
+
+                                                
+                                                    
+                                                         The information is wrong or outdated.
+                                                    
+                                                
+
+                                                
+                                                     Other
+                                                    
+                                                        Please specify (maximum of 750 characters):
+                                                        
+                                                    
+                                                
+                                            
+                                            
+                                                
+                                                    Note
+                                                    
+                                                        
+                                                            
+                                                                You will not receive a reply. For enquiries, please contact the Office of the Privacy Commissioner.
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                Do not include any personal information, such as your name, social insurance number (SIN), home or business address or any case or files numbers.
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                For more information about this tool, please refer to our terms and conditions of use.
+                                                            
+                                                        
+                                                    
+                                                
+                                                
+                                                    
+                                                
+                                            
+                                    
+                                     
+                                
+                            
+                        
+                    
+                    
+    
+        Was this page helpful?
+            
+                Please select one (required):
+                
+                    Yes
+                
+                
+                    Why? Please provide details (maximum of 750 characters)
+                    
+                
+
+                
+                    No
+                
+                
+                    Why? Please select all that apply (required):
+                    Error&nbsp;1: This field is required.
+                    
+                         The information is hard to understand.
+                    
+                    
+                         The information is wrong.
+                    
+                    
+                         The information is outdated.
+                    
+                    
+                         I can't find the information I'm looking for.
+                    
+                    
+                         Other
+                        
+                            Please specify (maximum of 750 characters):
+                            
+                        
+                    
+                
+            
+            
+                
+                    Note
+                    
+                        You will not receive a reply. For enquiries, please contact the Office of the Privacy Commissioner.
+                        Do not include any personal information, such as your name, social insurance number (SIN), home or business address or any case or files numbers.
+                        
+                            
+                                For more information about this tool, please refer to our terms and conditions of use.
+                            
+                        
+                    
+                
+                
+                    
+                
+            
+
+        
+        
+
+    
+
+                
+            
+                Date modified:&#32;
+                2018-10-29
+            
+        
+    
+    
+    
+        
+            About this site
+            
+                
+                    
+                        About the OPC
+                        The Privacy Commissioner of Canada is an Agent of Parliament whose mission is to protect and promote privacy rights.
+                        
+                            Who we are
+                            What we do
+                            OPC operational reports
+                            Publications
+                            Working at the OPC
+                        
+                    
+                
+                
+                    
+                        OPC news
+                        Get updates about the OPC’s announcements and activities, as well as the events in which we participate.
+                        
+                            News and announcements
+                            Privacy events
+                            Speeches
+                        
+                    
+                
+                
+                    
+                        Your privacy
+                        We respect your privacy
+                        Read our Privacy policy and Terms and conditions of use to find out more about your privacy and rights when using the priv.gc.ca website or contacting the Office of the Privacy Commissioner of Canada.
+                    
+                    
+                        Transparency
+                        
+                            Proactive disclosure
+                        
+                    
+                
+                
+                    
+                        Contact us
+                        If you have a question, concerns about your privacy or want to file a complaint against an organization, we are here to help.
+                        Contact the OPC
+                    
+                    
+                        Stay connected
+                        
+                             OPC Blog
+                             OPC LinkedIn
+                             OPC RSS feeds
+                             OPC Twitter
+                             OPC YouTube channel
+                        
+                    
+                
+            
+        
+
+        
+            
+                
+                    
+                        
+                        Office of Privacy Commissioner of Canada
+                    
+                    
+                        Top of Page 
+                    
+                
+            
+        
+    
+
+    
+    
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
